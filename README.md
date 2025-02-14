@@ -3,13 +3,21 @@
 A versatile and easy-to-configure dealership system for your FiveM server, offering an immersive showroom experience, a React/Tailwind UI, and seamless vehicle purchasing.
 
 🏬 Showroom System – Enter dealerships and preview vehicles in a realistic showroom.
+<br>
 🏎️ Vehicle Preview – Rotate and inspect vehicles before purchase.
+<br>
 💰 Multiple Payment Methods – Pay via cash or bank.
+<br>
 🎨 Custom Colors – Select your preferred vehicle color.
+<br>
 🛠️ Highly Configurable – Adjust settings, locales, and vehicles easily.
+<br>
 🌐 React + Tailwind UI – Sleek, modern, and responsive interface.
+<br>
 🔧 Optimized Performance – Runs smoothly with minimal resource usage.
+<br>
 🔄 Supports ESX, QBCore & Qbox – Fully compatible with major frameworks.
+<br>
 🗺️ Blip Integration – Add custom map markers for dealerships.
 
 Follow our installation guide: [Click Here](https://docs.stevoscripts.com/free-scripts/stevo_dealerships)
